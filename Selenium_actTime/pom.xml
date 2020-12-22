@@ -34,7 +34,7 @@
 			<artifactId>maven-plugin-api</artifactId>
 			<version>3.5.2</version>
 		</dependency>
-	<!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
+	
 		<dependency>
 		    <groupId>com.aventstack</groupId>
 		    <artifactId>extentreports</artifactId>
